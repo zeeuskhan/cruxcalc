@@ -27,14 +27,14 @@ This is a collection of sleek, user-friendly health and fitness calculators buil
 
 ### Desktop Installation (Windows, Mac, Linux)
 
-1. Visit [calc.potatohack.com](https://calc.potatohack.com) in Chrome, Edge, or Firefox
+1. Visit [cruxcalc.netlify.app](https://cruxcalc.netlify.app) in Chrome, Edge, or Firefox
 2. Look for the **"Install"** or **"Download"** icon in your browser's address bar
 3. Click to install - it will appear as a standalone desktop app
 4. Launch from your desktop, taskbar, or start menu
 
 ### Mobile Installation (Android & iOS)
 
-1. Open [calc.potatohack.com](https://calc.potatohack.com) in your mobile browser
+1. Open [cruxcalc.netlify.app](https://cruxcalc.netlify.app) in your mobile browser
 2. **Android**: Tap "Add to Home Screen" or "Install App"
 3. **iOS**: Tap the Share button → "Add to Home Screen"
 4. The app icon will appear on your home screen
@@ -224,7 +224,7 @@ All formulas implemented are scientifically validated:
 
 ### For Users
 
-Simply visit [calc.potatohack.com](https://calc.potatohack.com) and start calculating! Optionally download as an app for the best experience.
+Simply visit [cruxcalc.netlify.app](https://cruxcalc.netlify.app) and start calculating! Optionally download as an app for the best experience.
 
 ### For Developers
 

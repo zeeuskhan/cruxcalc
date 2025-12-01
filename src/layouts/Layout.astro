@@ -21,7 +21,7 @@ const {
 } = Astro.props;
 
 // Get the full URL for social media
-const siteUrl = Astro.site?.toString().replace(/\/$/, "") || "https://calc.potatohack.com"; // Will use astro.config.mjs site setting or fallback
+const siteUrl = Astro.site?.toString().replace(/\/$/, "") || "https://cruxcalc.netlify.app"; // Will use astro.config.mjs site setting or fallback
 const fullUrl = canonical ? `${siteUrl}${canonical}` : `${siteUrl}${Astro.url.pathname}`;
 const fullImageUrl = `${siteUrl}${image}`;
 ---

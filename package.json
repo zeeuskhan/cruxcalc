@@ -10,8 +10,8 @@
     "test": "echo \"E2E testing disabled\" && exit 0"
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.4",
-    "astro": "^5.13.2",
+    "@astrojs/check": "^0.9.6",
+    "astro": "^5.16.3",
     "typescript": "^5.9.2"
   }
 }
