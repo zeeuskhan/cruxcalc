@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cruxcalc.netlify.app/sitemap.xml
+Sitemap: https://cruxcalc.vercel.app/sitemap.xml
 
 # Block common crawler paths that aren't useful
 Disallow: /api/
